@@ -1,3 +1,7 @@
+.header {
+  Access-Control-Allow-Origin: *;
+}
+
 a[title="Alerts"] {
     display: none;
     visibility: hidden;
